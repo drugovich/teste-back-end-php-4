@@ -11,7 +11,7 @@ Em nossa auto peças surgiu a demanda que nossos gerentes pudessem separar nosso
 - Um cliente deve pertencer a apenas um grupo;
 - Gerentes precisam estar autenticados;
 - Gerentes de nível um pode apenas visualizar grupos, adicionar/remover clientes;
-- Gerentes de nível dois é o único que pode criar, editar e excluir grupos;
+- Gerentes de nível dois são os únicos que podem criar, editar e excluir grupos;
 - Não fazer "fork" do repositório;
 - Ao finalizar, criar um repositório no github e mandar o link para o email <dep.web@drugovich.com.br>
 
